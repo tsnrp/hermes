@@ -1,0 +1,2 @@
+--run on hermes startup
+--disableGiveMeGM(); -- will disable the hermes command /hermes giveMeGM
