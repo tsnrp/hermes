@@ -1,0 +1,13 @@
+TSN files for hermes
+
+Currently nick's script pulls hermes off of https://github.com/StarryWisdom/hermes-bin/raw/master/hermes
+as such the binaries here don't do anything :/
+at some point that probably should be fixed but it either involves a flag day 
+for all users of hermes+nebula (probably just the hosts of the TSN) or means
+the naming of the startup vars for nebula would be odd.
+
+Windows builds are a pain as such there is a moderate chance they are out of
+date at any time (I will try to mark them when this is the case), if the size
+of the windows builds shrink quickly (currently 1.1MB) that is a sign starry 
+has been an idiot and forgotten to link them statically ... again - fix that
+via either prodding starry or installing the MSVC runtime.
